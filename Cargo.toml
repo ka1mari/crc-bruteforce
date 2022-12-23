@@ -1,0 +1,10 @@
+[package]
+name = "crc-bruteforce"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies.crc]
+path = "/ely/dev/crc-rs"
+
+[dependencies.rayon]
+version = "1.6"
